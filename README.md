@@ -1,0 +1,1 @@
+# example-of-inheritance-with-properties-and-methods
